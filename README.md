@@ -34,31 +34,4 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png) |
 
-### 💼 Where i am currently working at/as
-
-- [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
-- [Open World: Freelance](https://stephenajulu.com)
-
-### 💻 What i am currently/done working on
-
-- [GreeetinCard](https://greeetincard.crd.co)  🚀
-- Tech6  🚀 *coming soon*
-- [T.H.I.S](https://this1.netlify.app)  🚀 *coming very soon*
-- BioEmergency & Biomme  🚀 *coming soon*
-- Quevant  🚀 *coming very soon* 🚀
-- TechSavant  🚀 *coming very soon* 🚀
-- Lofied  🚀 *coming soon*
-
-### 📖 What i am currently learning
-
-- Full Stack Web Development  * Progress 31% *
-- AI & Machine Learning  * Progress 13% *
-- Cybersecurity and Ethical Hacking  * Progress 72% *
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
-
-
-
 ![z991's github stats](https://github-readme-stats.vercel.app/api?username=z991&hide=[%22issues%22]&show_icons=true)
